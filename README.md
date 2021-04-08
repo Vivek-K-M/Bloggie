@@ -1,3 +1,2 @@
 # Bloggie
-A Blogging Web Application using MERN Stack
-link - https://bloggie388.herokuapp.com/
+A Blogging Web Application using MERN Stack - https://bloggie388.herokuapp.com/
